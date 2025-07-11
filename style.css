@@ -1,4 +1,7 @@
 body{
     background-color: rgb(236, 194, 201);
+    display: flex;
+    justify-content: center;
     line-height: 0.6;
+
 }
